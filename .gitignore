@@ -11,7 +11,7 @@
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
-*.blend3
+*.blend2
 *.blend1.meta
 
 # MemoryCaptures can get excessive in size.
